@@ -32,7 +32,9 @@ A simple console-based Tic Tac Toe game written in C. Play against the computer 
 - **checkWinner()**: Checks for a winner or tie.
 - **printwinner()**: Displays the game result.
 
-## Example Output
+## Sample Output
+
+![image](https://github.com/user-attachments/assets/983eb733-252a-4c8c-a2a5-41878c2b7541)
 
 
 
