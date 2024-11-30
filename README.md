@@ -8,11 +8,14 @@ A simple console-based Tic Tac Toe game written in C. Play against the computer 
 - **Winner Detection**: Determines the winner or if it's a tie.
 - **Replay Option**: Allows replaying the game after finishing.
 
-## How to Run
-1. Clone this repository or download the source code.
-2. Open the source file in a C compiler (e.g., Dev-C++, Code::Blocks, or GCC).
-3. Compile and run the program.
+## How to Run on Dev-C++ 🖥️
+1. Download and install [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/).
+2. Open the `TicTacToe.c` file in Dev-C++.
+3. Press `F11` or go to `Execute -> Compile & Run` to compile and run the program.
 4. Follow the on-screen instructions to play the game.
+
+## Languages Used
+- **C**: The primary programming language used to develop this game.
 
 ## How to Play
 - The player uses `X` and the computer uses `O`.
