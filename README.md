@@ -46,4 +46,4 @@ A simple console-based Tic Tac Toe game written in **C**. Play against the compu
 ![image](https://github.com/user-attachments/assets/2ff1f169-bf9f-4492-98b3-747b25a88053)
 
 ## Built With
-- **C Language**: Implemented using fundamental C programming concepts.
+- **C Language**: Implemented **using fundamental C programming concepts**.
