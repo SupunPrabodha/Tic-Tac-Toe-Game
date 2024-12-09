@@ -34,7 +34,7 @@ A simple console-based Tic Tac Toe game written in **C**. Play against the compu
 
 ## ScreenShots
 
-### Startup : 
+### Startup interface: 
 ![image](https://github.com/user-attachments/assets/983eb733-252a-4c8c-a2a5-41878c2b7541)
 
 ### While playing :
