@@ -10,7 +10,7 @@ A simple console-based Tic Tac Toe game written in **C**. Play against the compu
 
 ## How to Run on Dev-C++ 🖥️
 1. Download and install **Dev-C++**.
-2. Open the `TicTacToe.c` file in Dev-C++.
+2. Open the `TicTacToe.c` file in **Dev-C++**.
 3. Press `F11` or go to `Execute -> Compile & Run` to compile and run the program.
 4. Follow the on-screen instructions to play the game.
 
