@@ -1,6 +1,6 @@
 # Tic Tac Toe Game 🎮
 
-A simple console-based Tic Tac Toe game written in C. Play against the computer in a fun and straightforward game experience!
+A simple console-based Tic Tac Toe game written in **C**. Play against the computer in a fun and straightforward game experience!
 
 ## Features
 - **Player vs. Computer Mode**: Compete against the computer with randomly generated moves.
