@@ -47,3 +47,5 @@ A simple console-based Tic Tac Toe game written in **C**. Play against the compu
 
 ## Built With
 - **C Language**: Implemented **using fundamental C programming concepts**.
+
+⭐ If you like this project, don't forget to star it! ⭐
